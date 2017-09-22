@@ -1,0 +1,93 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: master.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: include/deckblatt.aux
+A level-1 auxiliary file: include/Erklaerung.aux
+A level-1 auxiliary file: include/abstract_ger.aux
+A level-1 auxiliary file: include/abstract.aux
+A level-1 auxiliary file: include/introduction.aux
+A level-1 auxiliary file: include/preliminaries.aux
+A level-1 auxiliary file: include/Kandinsky.aux
+A level-1 auxiliary file: include/Saving.aux
+A level-1 auxiliary file: include/Related.aux
+A level-1 auxiliary file: include/Example.aux
+A level-1 auxiliary file: include/open_problems.aux
+A level-1 auxiliary file: include/acknowledgements.aux
+A level-1 auxiliary file: include/thebibliography.aux
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: master-blx.bib
+Database file #2: ref.bib
+A bad cross reference---entry "lombardi_src2"
+refers to entry "DBLP:conf/gd/2012", which doesn't exist
+A bad cross reference---entry "Ortho"
+refers to entry "DBLP:reference/crc/2013gd", which doesn't exist
+A bad cross reference---entry "GD95"
+refers to entry "DBLP:conf/gd/1995", which doesn't exist
+A bad cross reference---entry "podevsaef"
+refers to entry "DBLP:conf/wea/2015", which doesn't exist
+A bad cross reference---entry "SMOcti_rel"
+refers to entry "DBLP:conf/gd/2017", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/gd/2017"
+Warning--I didn't find a database entry for "DBLP:reference/crc/2013gd"
+Warning--I didn't find a database entry for "DBLP:conf/wea/2015"
+Warning--I didn't find a database entry for "DBLP:conf/gd/2012"
+Warning--I didn't find a database entry for "DBLP:conf/gd/1995"
+Biblatex version: 3.3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 13 entries,
+            6256 wiz_defined-function locations,
+            1298 strings with 12392 characters,
+and the built_in function-call counts, 78039 in all, are:
+= -- 5475
+> -- 1431
+< -- 379
++ -- 1821
+- -- 592
+* -- 6218
+:= -- 8087
+add.period$ -- 0
+call.type$ -- 13
+change.case$ -- 158
+chr.to.int$ -- 30
+cite$ -- 24
+duplicate$ -- 7796
+empty$ -- 7315
+format.name$ -- 888
+if$ -- 16036
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 0
+newline$ -- 477
+num.names$ -- 546
+pop$ -- 4173
+preamble$ -- 1
+purify$ -- 233
+quote$ -- 0
+skip$ -- 2171
+stack$ -- 0
+substring$ -- 9946
+swap$ -- 1973
+text.length$ -- 370
+text.prefix$ -- 12
+top$ -- 1
+type$ -- 430
+warning$ -- 0
+while$ -- 950
+width$ -- 0
+write$ -- 465
+(There were 5 error messages)

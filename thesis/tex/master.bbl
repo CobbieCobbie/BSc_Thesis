@@ -1,0 +1,493 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{nty/global/}
+  \entry{LombardiFlow}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AMJ}{%
+         family={Alam},
+         familyi={A\bibinitperiod},
+         given={Md.\bibnamedelima Jawaherul},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DMB}{%
+         family={Dillencourt},
+         familyi={D\bibinitperiod},
+         given={Michael\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GMT}{%
+         family={Goodrich},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMJDMBGMT1}
+    \strng{fullhash}{AMJDMBGMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{eprint}
+    \verb 1608.03943
+    \endverb
+    \field{title}{Capturing Lombardi Flow in Orthogonal Drawings by Minimizing
+  the Number of Segments}
+    \verb{url}
+    \verb http://arxiv.org/abs/1608.03943
+    \endverb
+    \field{volume}{abs/1608.03943}
+    \field{journaltitle}{CoRR}
+    \field{eprinttype}{arXiv}
+    \field{year}{2016}
+  \endentry
+
+  \entry{SMOcti_rel}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=BMA}{%
+         family={Bekos},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={F{\"{o}}rster},
+         familyi={F\bibinitperiod},
+         given={Henry},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kaufmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMAFHKM1}
+    \strng{fullhash}{BMAFHKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Graph Drawing and Network Visualization - 25th
+  International Symposium, {GD} 2017, Boston, MA, USA, September 25-27, 2017,
+  Revised Selected Papers}
+    \verb{doi}
+    \verb 10.1007/978-3-319-73915-1\_15
+    \endverb
+    \field{pages}{169\bibrangedash 183}
+    \field{title}{On Smooth Orthogonal and Octilinear Drawings: Relations,
+  Complexity and Kandinsky Drawings}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-319-73915-1\_15
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{SMOG}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BMA}{%
+         family={Bekos},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kaufmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KSG}{%
+         family={Kobourov},
+         familyi={K\bibinitperiod},
+         given={Stephen\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Symvonis},
+         familyi={S\bibinitperiod},
+         given={Antonios},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMA+1}
+    \strng{fullhash}{BMAKMKSGSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.7155/jgaa.00305
+    \endverb
+    \field{number}{5}
+    \field{pages}{575\bibrangedash 595}
+    \field{title}{Smooth Orthogonal Layouts}
+    \verb{url}
+    \verb https://doi.org/10.7155/jgaa.00305
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{J. Graph Algorithms Appl.}
+    \field{year}{2013}
+  \endentry
+
+  \entry{podevsaef}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=BMA}{%
+         family={Bekos},
+         familyi={B\bibinitperiod},
+         given={Michael\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kaufmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Krug},
+         familyi={K\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Siebenhaller},
+         familyi={S\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMA+1}
+    \strng{fullhash}{BMAKMKRSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Experimental Algorithms - 14th International Symposium,
+  {SEA} 2015, Paris, France, June 29 - July 1, 2015, Proceedings}
+    \verb{doi}
+    \verb 10.1007/978-3-319-20086-6\_27
+    \endverb
+    \field{pages}{352\bibrangedash 364}
+    \field{title}{The Effect of Almost-Empty Faces on Planar Kandinsky
+  Drawings}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-319-20086-6\_27
+    \endverb
+    \field{year}{2015}
+  \endentry
+
+  \entry{Ortho}{incollection}{}
+    \name{author}{2}{}{%
+      {{hash=DCA}{%
+         family={Duncan},
+         familyi={D\bibinitperiod},
+         given={Christian\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GMT}{%
+         family={Goodrich},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DCAGMT1}
+    \strng{fullhash}{DCAGMT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Handbook on Graph Drawing and Visualization.}
+    \field{pages}{223\bibrangedash 246}
+    \field{title}{Planar Orthogonal and Polyline Drawing Algorithms}
+    \field{year}{2013}
+  \endentry
+
+  \entry{lombardi_src1}{article}{}
+    \name{author}{5}{}{%
+      {{hash=DCA}{%
+         family={Duncan},
+         familyi={D\bibinitperiod},
+         given={Christian\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ED}{%
+         family={Eppstein},
+         familyi={E\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GMT}{%
+         family={Goodrich},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima T.},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=KSG}{%
+         family={Kobourov},
+         familyi={K\bibinitperiod},
+         given={Stephen\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={N{\"{o}}llenburg},
+         familyi={N\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DCA+1}
+    \strng{fullhash}{DCAEDGMTKSGNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{85\bibrangedash 108}
+    \field{title}{Lombardi Drawings of Graphs}
+    \verb{url}
+    \verb http://jgaa.info/accepted/2012/Duncan+2012.16.1.pdf
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{J. Graph Algorithms Appl.}
+    \field{year}{2012}
+  \endentry
+
+  \entry{lombardi_src2}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=ED}{%
+         family={Eppstein},
+         familyi={E\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ED1}
+    \strng{fullhash}{ED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{booktitle}{Graph Drawing - 20th International Symposium, {GD} 2012,
+  Redmond, WA, USA, September 19-21, 2012, Revised Selected Papers}
+    \verb{doi}
+    \verb 10.1007/978-3-642-36763-2\_12
+    \endverb
+    \field{pages}{126\bibrangedash 137}
+    \field{title}{Planar Lombardi Drawings for Subcubic Graphs}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-642-36763-2\_12
+    \endverb
+    \field{year}{2012}
+  \endentry
+
+  \entry{4M}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=FU}{%
+         family={F{\"o}{\ss}meier},
+         familyi={F\bibinitperiod},
+         given={Ulrich},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={He{\ss}},
+         familyi={H\bibinitperiod},
+         given={Carsten},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kaufmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=WSH}{%
+         family={Whitesides},
+         familyi={W\bibinitperiod},
+         given={Sue\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{FUHCKM1}
+    \strng{fullhash}{FUHCKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Orthogonal drawings of graphs are widely investigated in the literature and
+  many algorithms have been presented to compute such drawings. Most of these
+  algorithms lead to unpleasant drawings with many bends and a large area. We
+  present methods how to improve the quality of given orthogonal drawings. Our
+  algorithms try to simulate the thinking of a human spectator in order to
+  achieve good results. We also give instructions how to implement the
+  strategies in a way that a good runtime performance can be achieved.%
+    }
+    \field{booktitle}{Graph Drawing}
+    \field{isbn}{978-3-540-37623-1}
+    \field{pages}{125\bibrangedash 137}
+    \field{title}{On Improving Orthogonal Drawings: The 4M-Algorithm}
+    \list{location}{1}{%
+      {Berlin, Heidelberg}%
+    }
+    \field{year}{1998}
+  \endentry
+
+  \entry{GD95}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=FU}{%
+         family={F{\"{o}}{\ss}meier},
+         familyi={F\bibinitperiod},
+         given={Ulrich},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kaufmann},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FUKM1}
+    \strng{fullhash}{FUKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{Graph Drawing, Symposium on Graph Drawing, {GD} '95,
+  Passau, Germany, September 20-22, 1995, Proceedings}
+    \verb{doi}
+    \verb 10.1007/BFb0021809
+    \endverb
+    \field{pages}{254\bibrangedash 266}
+    \field{title}{Drawing High Degree Graphs with Low Bend Numbers}
+    \verb{url}
+    \verb https://doi.org/10.1007/BFb0021809
+    \endverb
+    \field{year}{1995}
+  \endentry
+
+  \entry{metro1}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HS}{%
+         family={Hong},
+         familyi={H\bibinitperiod},
+         given={Seok{-}Hee},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Merrick},
+         familyi={M\bibinitperiod},
+         given={Damian},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=dNHAD}{%
+         prefix={do},
+         prefixi={d\bibinitperiod},
+         family={Nascimento},
+         familyi={N\bibinitperiod},
+         given={Hugo A.\bibnamedelima D.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HSMDNHADd1}
+    \strng{fullhash}{HSMDNHADd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1016/j.jvlc.2005.09.001
+    \endverb
+    \field{number}{3}
+    \field{pages}{203\bibrangedash 224}
+    \field{title}{Automatic visualisation of metro maps}
+    \verb{url}
+    \verb https://doi.org/10.1016/j.jvlc.2005.09.001
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{J. Vis. Lang. Comput.}
+    \field{year}{2006}
+  \endentry
+
+  \entry{lombardi_ex}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LM}{%
+         family={Lombardi},
+         familyi={L\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LM1}
+    \strng{fullhash}{LM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Work of Mark Lombardi}
+    \verb{url}
+    \verb https://i1.wp.com/www.pierogi2000.com/wp/wp-content/uploads/LombardiG
+    \verb eorgeHarkenEnergy.jpg
+    \endverb
+    \field{year}{June 2018}
+  \endentry
+
+  \entry{Tamassia}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TR}{%
+         family={Tamassia},
+         familyi={T\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TR1}
+    \strng{fullhash}{TR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb 10.1137/0216030
+    \endverb
+    \verb{eprint}
+    \verb https://doi.org/10.1137/0216030
+    \endverb
+    \field{number}{3}
+    \field{pages}{421\bibrangedash 444}
+    \field{title}{On Embedding a Graph in the Grid with the Minimum Number of
+  Bends}
+    \verb{url}
+    \verb https://doi.org/10.1137/0216030
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{SIAM Journal on Computing}
+    \field{year}{1987}
+  \endentry
+\endsortlist
+\endinput

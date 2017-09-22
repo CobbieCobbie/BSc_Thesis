@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Preliminaries}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Definitions}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Plane Sweep Algorithm}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{4M Algorithm 4M}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Topology Shape Metrics}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Previous results}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Fixed Layout Model}{subsection.2.5}% 8
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Fixed Shape Model}{subsection.2.5}% 9
+\BOOKMARK [2][-]{subsection.2.6}{Drawings with low complexity}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.7}{NP-hardness}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{The Kandinsky Model}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Area Investigation}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Edge Complexity Investigation}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Results}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Saving measures}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{Introduction}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{Edge Complexity Bounds}{section.4}% 19
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Podevsaef drawings}{subsection.4.2}% 20
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Using the fragmentation}{subsection.4.2}% 21
+\BOOKMARK [2][-]{subsection.4.3}{Area Bounds}{section.4}% 22
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Modified 4M - Moving}{subsection.4.3}% 23
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Circular arc substitution}{subsection.4.3}% 24
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Combination of circular arcs and vertical segments}{subsection.4.3}% 25
+\BOOKMARK [1][-]{section.5}{Extensional Work}{}% 26
+\BOOKMARK [2][-]{subsection.5.1}{NP Hardness}{section.5}% 27
+\BOOKMARK [2][-]{subsection.5.2}{Octi Arcs}{section.5}% 28
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Examining the octi arcs}{subsection.5.2}% 29
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Saving Space}{subsection.5.2}% 30
+\BOOKMARK [1][-]{section.6}{An Example}{}% 31
+\BOOKMARK [1][-]{section.7}{Future Work}{}% 32
+\BOOKMARK [1][-]{section.8}{Acknowledgements}{}% 33

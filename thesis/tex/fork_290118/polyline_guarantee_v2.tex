@@ -1,0 +1,60 @@
+\section{Guarantee for the number of bends of a polyline in SMOG}
+%The input will we a drawing of a graph in the Kandinsky Model, which means that there are only vertical and horizontal line segments, vertices illustrated in squares of a uniform size. Vertices lie on a course integer grid, while the line segment lie on a fine grid. The course grid is embedded in the fine grid.$$\text{Grid}_{\text{vertices}} \subset \text{Grid}_{\text{edges}}$$ A polyedge is an edge consisting of multiple line segments. The end of a line segment is either connected to another line segment or to a vertex. It is possible that multiple polyedges are connected to the same port of a vertex.\\
+Let $G$ be a planar graph and a Kandinsky drawing $\Gamma_G$ and an edge complexity of $k$. The main goal of this section is to examine lower and upper bounds for the edge complexity in SMOG.
+%\begin{theorem}
+%Let $\Gamma_G$ be an orthogonal drawing. Then: $$OC_{k+1} \hookrightarrow SC_{2k+1}$$ under the Fixed Layout Model.
+%\end{theorem}
+%\begin{proof}[Proof]
+%Consider following graph:
+%\begin{center}
+%\texttt{TODO: Staircase graph}
+%\end{center}
+%As you can see, the upper bound is strict in this case due to the fix position of the vertices.
+%\end{proof}
+%\subsection{Fixed Shape Model}
+%The only case where the new space is not guaranteed are vertical line segments ending in a vertex along with other vertical lines ending at the same port. We shall see that this will not be a problem regarding the edge complexity.\\
+%In practice, the SMOG Model is derived from the Kandinsky Model using basically two plane sweeps: The first plane sweep stretches the Kandinsky drawing horizontally by the factor of the longest vertical line segment. The second plane sweep erases 90 degree bends by circular arc substitution, making the drawing \textit{smooth}. The resulting drawing is in $\Rho(n^2) \times \Rho(n)$ area due to the horizontal stretching.
+\subsection{Examining \grqq good\grqq~and \grqq bad\grqq~parts of a polyline}
+The general idea is to distinguish between two major cases: Line segments with alternating turns (staircase, zig-zags) and line segments with uniform turns. As we already saw, the SMOG representation of uniform turns does not increase the edge complexity. Therefore we examine polyedges regarding its properties of turns from one vertex to another. Try to maximize the uniform part and simultaneously minimize the alternating part of a polyedge. We achieve this by so-called \textit{fragmentation} of a polyedge.
+\begin{definition}
+An \textbf{edge fragment} is a non-empty sequence of line segments. A \textbf{fragmentation} of a polyedge is a sequence of fragments.
+\end{definition}
+\begin{lemma}
+	A fragment is either purely uniform or purely alternating in its turns.
+\end{lemma}
+The property of turns is crucial for the edge complexity thus the main criterion for the fragmentation.\\
+\begin{algorithm}[H]
+	\KwIn{Polyedge $e = e_1e_2e_3...e_{k+1},k\geq 2$}
+	\KwResult{$e'$, a first fragmentation of $e$}
+$e'_1 \gets (e_1,e_2,e_3)$\\
+\If{$e'_1$ uniform}{$e'_1.\texttt{uniform} = \texttt{True}$}
+\Else{$e'_1.\texttt{uniform} = \texttt{False}$}
+\For{all remaining segments}{
+\If{the current segment fits into the turn property of $e'_1$}{
+$e'_1.\texttt{append}$(current segment)
+}
+\Else{create a new fragment with $e'_m.\texttt{uniform} \gets \neg e'_{m-1}.\texttt{uniform}$ and continue}
+}
+\Return $(e'_1,e'_2,...,e'_n)$
+	\caption{Algorithm to determine the progress of turns}
+\end{algorithm}
+\begin{lemma}The fragmentation of a given polyedge $e$ is not unique.
+\end{lemma}
+\begin{sketch}
+	Consider following drawing:
+	\begin{center}\texttt{\TODO: Non-unique fragmentation}
+	\end{center}
+\end{sketch}
+\begin{lemma}
+	Let $e$ be a polyedge with $k$ bends. Then a fragmentation contains minimal one fragment, maximal $\lfloor\frac{k}{2}\rfloor$ fragments.
+\end{lemma}
+\begin{definition}\label{def:frag_rel}
+	Let $e'$ and $f'$ be two fragmentations. Then $$e' \thicksim_R f' \Leftrightarrow \Gamma_{e'} = \Gamma_{f'}$$
+\end{definition}1
+This means that two fragmentations are relative iff they describe the same polyedge in a given drawing. 
+\begin{lemma}
+	The relation from Definition \ref{def:frag_rel} is an equivalence relation.
+\end{lemma}
+\begin{sketch}
+	Describing the same image is trivially reflexive, symmetical and transitive.
+\end{sketch}

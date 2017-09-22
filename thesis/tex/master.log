@@ -1,0 +1,2497 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.16)  22 JUL 2019 20:29
+entering extended mode
+**./master.tex
+(master.tex
+LaTeX2e <2018-04-01> patch level 5
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.cls
+Document Class: scrartcl 2018/03/30 v3.25 KOMA-Script document class (article)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+)))
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 134.
+Package scrartcl Info: You've used standard option `12pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=12pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2114.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize12pt.c
+lo
+File: scrsize12pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (12pt
+)
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.sty
+Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 606.5pt
+(typearea)              \topmargin      = -1.84941pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1706.
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@section@maxnumwidth=\skip48
+\scr@dte@subsection@maxnumwidth=\skip49
+\scr@dte@subsubsection@maxnumwidth=\skip50
+\scr@dte@paragraph@maxnumwidth=\skip51
+\scr@dte@subparagraph@maxnumwidth=\skip52
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\c@pti@nb@sid@b@x=\box27
+\scr@dte@figure@maxnumwidth=\skip55
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 5439.
+\c@figure=\count87
+\scr@dte@table@maxnumwidth=\skip56
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 5451.
+\c@table=\count88
+Class scrartcl Info: Redefining `\numberline' on input line 5615.
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count89
+\c@ContinuedFloat=\count90
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count91
+\c@subtable=\count92
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/09/26 3.24 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2018/09/26 3.24 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/09/26 3.24 Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen112
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count94
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count95
+\Gm@cntv=\count96
+\c@Gm@tempcnt=\count97
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\lkproof\proof.sty
+\inferLineSkip=\dimen121
+\inferLabelSkip=\dimen122
+\@LeftOffset=\dimen123
+\@RightOffset=\dimen124
+\@SavedLeftOffset=\dimen125
+\UpperWidth=\dimen126
+\LowerWidth=\dimen127
+\LowerHeight=\dimen128
+\UpperLeftOffset=\dimen129
+\UpperRightOffset=\dimen130
+\UpperCenter=\dimen131
+\LowerCenter=\dimen132
+\UpperAdjust=\dimen133
+\RuleAdjust=\dimen134
+\LowerAdjust=\dimen135
+\RuleWidth=\dimen136
+\HLabelAdjust=\dimen137
+\VLabelAdjust=\dimen138
+\WidthAdjust=\dimen139
+\@UpperPart=\box28
+\@LowerPart=\box29
+\@LabelPart=\box30
+\ResultBox=\box31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count98
+\Hy@pagecounter=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count100
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count101
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5141.
+\XeTeXLinkMargin=\dimen141
+\Fld@menulength=\count102
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring OFF on input line 6416.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
+\Hy@abspage=\count103
+\c@Item=\count104
+\c@Hfootnote=\count105
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
+\Fld@listcount=\count106
+\c@bookmark@seq@number=\count107
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip57
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box32
+\shadowsize=\dimen144
+\@Sbox=\box33
+\do@VerbBox=\toks18
+\the@fancyput=\toks19
+\this@fancyput=\toks20
+\EndVerbatimTokens=\toks21
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen145
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip11
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks24
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks25
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks26
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
+\thm@preskip=\skip61
+\thm@postskip=\skip62
+\thm@headsep=\skip63
+\dth@everypar=\toks33
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithm2e\algorithm2e.s
+ty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count120
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip64
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count121
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\skiptotal=\skip65
+\skiplinenumber=\skip66
+\skiprule=\skip67
+\skiphlne=\skip68
+\skiptext=\skip69
+\skiplength=\skip70
+\algomargin=\skip71
+\skipalgocfslide=\skip72
+\algowidth=\dimen154
+\inoutsize=\dimen155
+\inoutindent=\dimen156
+\interspacetitleruled=\dimen157
+\interspacealgoruled=\dimen158
+\interspacetitleboxruled=\dimen159
+\algocf@ruledwidth=\skip73
+\algocf@inoutbox=\box36
+\algocf@inputbox=\box37
+\AlCapSkip=\skip74
+\AlCapHSkip=\skip75
+\algoskipindent=\skip76
+\algocf@nlbox=\box38
+\algocf@hangingbox=\box39
+\algocf@untilbox=\box40
+\algocf@skipuntil=\skip77
+\algocf@capbox=\box41
+\algocf@lcaptionbox=\skip78
+\algoheightruledefault=\skip79
+\algoheightrule=\skip80
+\algotitleheightruledefault=\skip81
+\algotitleheightrule=\skip82
+\c@algocfline=\count122
+\c@algocfproc=\count123
+\c@algocf=\count124
+\algocf@algoframe=\box42
+\algocf@algobox=\box43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count125
+\float@exts=\toks34
+\float@box=\box44
+\@float@everytoks=\toks35
+\@floatcapt=\box45
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.sty
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count126
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count127
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count128
+\c@listtotal=\count129
+\c@listcount=\count130
+\c@liststart=\count131
+\c@liststop=\count132
+\c@citecount=\count133
+\c@citetotal=\count134
+\c@multicitecount=\count135
+\c@multicitetotal=\count136
+\c@instcount=\count137
+\c@maxnames=\count138
+\c@minnames=\count139
+\c@maxitems=\count140
+\c@minitems=\count141
+\c@citecounter=\count142
+\c@maxcitecounter=\count143
+\c@savedcitecounter=\count144
+\c@uniquelist=\count145
+\c@uniquename=\count146
+\c@refsection=\count147
+\c@refsegment=\count148
+\c@maxextratitle=\count149
+\c@maxextratitleyear=\count150
+\c@maxextraname=\count151
+\c@maxextradate=\count152
+\c@maxextraalpha=\count153
+\c@abbrvpenalty=\count154
+\c@highnamepenalty=\count155
+\c@lownamepenalty=\count156
+\c@maxparens=\count157
+\c@parenlevel=\count158
+\blx@tempcnta=\count159
+\blx@tempcntb=\count160
+\blx@tempcntc=\count161
+\blx@maxsection=\count162
+\blx@maxsegment@0=\count163
+\blx@notetype=\count164
+\blx@parenlevel@text=\count165
+\blx@parenlevel@foot=\count166
+\blx@sectionciteorder@0=\count167
+\blx@entrysetcounter=\count168
+\labelnumberwidth=\skip83
+\labelalphawidth=\skip84
+\biblabelsep=\skip85
+\bibitemsep=\skip86
+\bibnamesep=\skip87
+\bibinitsep=\skip88
+\bibparsep=\skip89
+\bibhang=\skip90
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count169
+\c@maxcomprange=\count170
+\c@mincompwidth=\count171
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-dm.def
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count172
+\c@savedafterword=\count173
+\c@annotator=\count174
+\c@savedannotator=\count175
+\c@author=\count176
+\c@savedauthor=\count177
+\c@bookauthor=\count178
+\c@savedbookauthor=\count179
+\c@commentator=\count180
+\c@savedcommentator=\count181
+\c@editor=\count182
+\c@savededitor=\count183
+\c@editora=\count184
+\c@savededitora=\count185
+\c@editorb=\count186
+\c@savededitorb=\count187
+\c@editorc=\count188
+\c@savededitorc=\count189
+\c@foreword=\count190
+\c@savedforeword=\count191
+\c@holder=\count192
+\c@savedholder=\count193
+\c@introduction=\count194
+\c@savedintroduction=\count195
+\c@namea=\count196
+\c@savednamea=\count197
+\c@nameb=\count198
+\c@savednameb=\count199
+\c@namec=\count266
+\c@savednamec=\count267
+\c@translator=\count268
+\c@savedtranslator=\count269
+\c@shortauthor=\count270
+\c@savedshortauthor=\count271
+\c@shorteditor=\count272
+\c@savedshorteditor=\count273
+\c@labelname=\count274
+\c@savedlabelname=\count275
+\c@institution=\count276
+\c@savedinstitution=\count277
+\c@lista=\count278
+\c@savedlista=\count279
+\c@listb=\count280
+\c@savedlistb=\count281
+\c@listc=\count282
+\c@savedlistc=\count283
+\c@listd=\count284
+\c@savedlistd=\count285
+\c@liste=\count286
+\c@savedliste=\count287
+\c@listf=\count288
+\c@savedlistf=\count289
+\c@location=\count290
+\c@savedlocation=\count291
+\c@organization=\count292
+\c@savedorganization=\count293
+\c@origlocation=\count294
+\c@savedoriglocation=\count295
+\c@origpublisher=\count296
+\c@savedorigpublisher=\count297
+\c@publisher=\count298
+\c@savedpublisher=\count299
+\c@language=\count300
+\c@savedlanguage=\count301
+\c@origlanguage=\count302
+\c@savedoriglanguage=\count303
+\c@pageref=\count304
+\c@savedpageref=\count305
+\shorthandwidth=\skip91
+\shortjournalwidth=\skip92
+\shortserieswidth=\skip93
+\shorttitlewidth=\skip94
+\shortauthorwidth=\skip95
+\shorteditorwidth=\skip96
+\locallabelnumberwidth=\skip97
+\locallabelalphawidth=\skip98
+\localshorthandwidth=\skip99
+\localshortjournalwidth=\skip100
+\localshortserieswidth=\skip101
+\localshorttitlewidth=\skip102
+\localshortauthorwidth=\skip103
+\localshorteditorwidth=\skip104
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-compat.def
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-bibtex.def
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.def
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count306
+\c@textcitetotal=\count307
+\c@textcitemaxnames=\count308
+\c@biburlnumpenalty=\count309
+\c@biburlucpenalty=\count310
+\c@biburllcpenalty=\count311
+\c@smartand=\count312
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\numeric.bbx
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\standard.bbx
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count313
+\c@bbx:relatedtotal=\count314
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\cbx\numeric.cbx
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\filecontents\filecontents
+.sty
+Package: filecontents 2018/05/30 v1.4 Create an external file from within a LaT
+eX document
+)
+\@float@every@figure=\toks36
+\c@theorem=\count315
+\c@assumption=\count316
+\c@lemma=\count317
+\c@remark=\count318
+\c@definition=\count319
+\c@corollary=\count320
+
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 66.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip105
+\f@nch@O@elh=\skip106
+\f@nch@O@erh=\skip107
+\f@nch@O@olh=\skip108
+\f@nch@O@orh=\skip109
+\f@nch@O@elf=\skip110
+\f@nch@O@erf=\skip111
+\f@nch@O@olf=\skip112
+\f@nch@O@orf=\skip113
+)
+\@indexfile=\write5
+\openout5 = `master.idx'.
+
+
+Writing index file master.idx
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count321
+\lst@gtempboxa=\box46
+\lst@token=\toks37
+\lst@length=\count322
+\lst@currlwidth=\dimen160
+\lst@column=\count323
+\lst@pos=\count324
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count325
+\lst@lineno=\count326
+\lst@maxwidth=\dimen163
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count327
+\lst@skipnumbers=\count328
+\lst@framebox=\box47
+)
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count329
+\@quotereset=\count330
+(master.aux (include/deckblatt.aux) (include/abstract_ger.aux)
+(include/abstract.aux) (include/Erklaerung.aux) (include/introduction.aux)
+(include/preliminaries.aux) (include/Kandinsky.aux) (include/Saving.aux)
+(include/Related.aux) (include/Example.aux) (include/open_problems.aux)
+(include/acknowledgements.aux))
+\openout1 = `master.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+
+(C:\Users\Cobbie\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count331
+\scratchdimen=\dimen164
+\scratchbox=\box48
+\nofMPsegments=\count332
+\nofMParguments=\count333
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen165
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
+\everyMPtoPDFconversion=\toks39
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 717.00946pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=717.00946pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-41.0131pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=49.79233pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 89.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count337
+)
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
+
+(master.out) (master.out)
+\@outlinefile=\write6
+\openout6 = `master.out'.
+
+LaTeX Info: Redefining \celsius on input line 89.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 89.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 89.
+Package gensymb Info: Using \Omega for \ohm on input line 89.
+
+Package gensymb Warning: Not defining \micro.
+
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `master-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+
+Package biblatex Warning: File 'master.bbl' is wrong format version - expected 
+3.0.
+
+Package biblatex Info: ... file 'master.bbl' found.
+(master.bbl
+! Undefined control sequence.
+l.19 \sortlist
+              [entry]{nty/global/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.20   \entry{LombardiFlow}{article}{}
+                                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.59   \endentry
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.59   \endentry
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.61   \entry{SMOcti_rel}{inproceedings}{}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.101   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.101   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.103   \entry{SMOG}{article}{}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.148   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.148   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.150   \entry{podevsaef}{inproceedings}{}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.195   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.195   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.197   \entry{Ortho}{incollection}{}
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.222   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.222   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.224   \entry{lombardi_src1}{article}{}
+                                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.272   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.272   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.274   \entry{lombardi_src2}{inproceedings}{}
+                                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.300   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.300   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.302   \entry{4M}{inproceedings}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.357   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.357   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.359   \entry{GD95}{inproceedings}{}
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.391   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.391   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.393   \entry{metro1}{article}{}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.435   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.435   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.437   \entry{lombardi_ex}{online}{}
+                                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.458   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.458   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\entry ...ata@\the \c@refsection @\blx@dlist@name 
+                                                  @\abx@field@entrykey }\blx...
+l.460   \entry{Tamassia}{article}{}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{entry} {\listcsxadd {blx...
+l.491   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...equal \expandafter {\blx@dlist@type 
+                                                  }{list} {\blx@bbl@labelfie...
+l.491   \endentry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.492 \endsortlist
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+Package biblatex Info: Reference section=0 on input line 89.
+Package biblatex Info: Reference segment=0 on input line 89.
+\c@lstlisting=\count338
+ [1{C:/Users/Cobbie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+]
+\openout2 = `include/deckblatt.aux'.
+
+
+(include/deckblatt.tex
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 24.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [2
+
+]
+\openout2 = `include/abstract_ger.aux'.
+
+
+(include/abstract_ger.tex
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 1.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+
+Overfull \hbox (7.54622pt too wide) in paragraph at lines 3--11
+\T1/cmr/m/n/12 Im näch-sten Ab-schnitt beschäfti-gen wir uns mit ver-schiede-ne
+n An-sätzen, um an Platzver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--11
+
+ []
+
+) [3
+
+
+]
+\openout2 = `include/abstract.aux'.
+
+ (include/abstract.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--97
+
+ []
+
+[4
+
+
+]
+\openout2 = `include/Erklaerung.aux'.
+
+ (include/Erklaerung.tex) [5
+
+
+] (master.toc)
+\tf@toc=\write7
+\openout7 = `master.toc'.
+
+ [6
+
+]
+\openout2 = `include/introduction.aux'.
+
+ (include/introduction.tex
+<includegraphics/Introduction_Lombardi-example.jpg, id=208, 578.16pt x 236.3229
+pt>
+File: includegraphics/Introduction_Lombardi-example.jpg Graphic file (type jpg)
+
+<use includegraphics/Introduction_Lombardi-example.jpg>
+Package pdftex.def Info: includegraphics/Introduction_Lombardi-example.jpg  use
+d on input line 9.
+(pdftex.def)             Requested size: 352.81552pt x 144.21083pt.
+
+
+LaTeX Warning: Citation 'lombardi_ex' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'lombardi_ex' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'lombardi_src1' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'lombardi_src2' on page 1 undefined on input line 13.
+
+<includegraphics/introduction-example.pdf, id=210, page=1, 289.48149pt x 289.48
+149pt>
+File: includegraphics/introduction-example.pdf Graphic file (type pdf)
+<use includegraphics/introduction-example.pdf, page 1>
+Package pdftex.def Info: includegraphics/introduction-example.pdf , page1 used 
+on input line 18.
+(pdftex.def)             Requested size: 79.38142pt x 79.38017pt.
+<includegraphics/introduction-example.pdf, id=211, page=2, 289.48149pt x 289.48
+149pt>
+File: includegraphics/introduction-example.pdf Graphic file (type pdf)
+<use includegraphics/introduction-example.pdf, page 2>
+Package pdftex.def Info: includegraphics/introduction-example.pdf , page2 used 
+on input line 23.
+(pdftex.def)             Requested size: 79.38142pt x 79.38017pt.
+[1
+
+ <./includegraphics/Introduction_Lombardi-example.jpg>]
+
+LaTeX Warning: Citation 'metro1' on page 2 undefined on input line 28.
+
+) [2 <./includegraphics/introduction-example.pdf> <./includegraphics/introducti
+on-example.pdf>]
+\openout2 = `include/preliminaries.aux'.
+
+ (include/preliminaries.tex
+
+LaTeX Warning: Citation 'Ortho' on page 3 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'Ortho' on page 3 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'GD95' on page 3 undefined on input line 26.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+ [3
+
+
+]
+<includegraphics/big-example.pdf, id=245, page=1, 112.8215pt x 177.0615pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 1>
+Package pdftex.def Info: includegraphics/big-example.pdf , page1 used on input 
+line 39.
+(pdftex.def)             Requested size: 79.3848pt x 124.58519pt.
+<includegraphics/L-t-shape_candidates.pdf, id=247, page=6, 80.7015pt x 48.5815p
+t>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 6>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page6 used 
+on input line 48.
+(pdftex.def)             Requested size: 59.97684pt x 36.10614pt.
+<includegraphics/L-t-shape_candidates.pdf, id=248, page=2, 177.0615pt x 64.6415
+pt>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 2>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page2 used 
+on input line 53.
+(pdftex.def)             Requested size: 105.8437pt x 38.64215pt.
+
+
+LaTeX Warning: Citation 'podevsaef' on page 4 undefined on input line 59.
+
+[4 <./includegraphics/big-example.pdf> <./includegraphics/L-t-shape_candidates.
+pdf> <./includegraphics/L-t-shape_candidates.pdf>]
+<includegraphics/big-example.pdf, id=266, page=6, 112.8215pt x 177.0615pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 6>
+Package pdftex.def Info: includegraphics/big-example.pdf , page6 used on input 
+line 73.
+(pdftex.def)             Requested size: 79.3848pt x 124.58519pt.
+
+
+LaTeX Warning: Citation '4M' on page 5 undefined on input line 79.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 79.
+
+[5 <./includegraphics/big-example.pdf>]
+<includegraphics/4M_Moving_example.pdf, id=280, page=1, 88.7315pt x 75.44987pt>
+
+File: includegraphics/4M_Moving_example.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_example.pdf, page 1>
+Package pdftex.def Info: includegraphics/4M_Moving_example.pdf , page1 used on 
+input line 99.
+(pdftex.def)             Requested size: 105.8437pt x 90.00519pt.
+<includegraphics/4M_Moving_example.pdf, id=281, page=2, 72.67151pt x 76.68651pt
+>
+File: includegraphics/4M_Moving_example.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_example.pdf, page 2>
+Package pdftex.def Info: includegraphics/4M_Moving_example.pdf , page2 used on 
+input line 104.
+(pdftex.def)             Requested size: 84.67334pt x 89.36009pt.
+
+
+LaTeX Warning: Citation 'Tamassia' on page 6 undefined on input line 136.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 139.
+[6 <./includegraphics/4M_Moving_example.pdf> <./includegraphics/4M_Moving_examp
+le.pdf>]
+
+LaTeX Warning: Citation 'podevsaef' on page 7 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'SMOG' on page 7 undefined on input line 150.
+
+
+LaTeX Warning: Citation 'SMOG' on page 7 undefined on input line 163.
+
+<includegraphics/staircase-4-planar.pdf, id=299, page=1, 345.6915pt x 273.4215p
+t>
+File: includegraphics/staircase-4-planar.pdf Graphic file (type pdf)
+<use includegraphics/staircase-4-planar.pdf, page 1>
+Package pdftex.def Info: includegraphics/staircase-4-planar.pdf , page1 used on
+ input line 170.
+(pdftex.def)             Requested size: 123.48253pt x 97.66817pt.
+<includegraphics/staircase-4-planar.pdf, id=300, page=2, 345.6915pt x 273.4215p
+t>
+File: includegraphics/staircase-4-planar.pdf Graphic file (type pdf)
+<use includegraphics/staircase-4-planar.pdf, page 2>
+Package pdftex.def Info: includegraphics/staircase-4-planar.pdf , page2 used on
+ input line 175.
+(pdftex.def)             Requested size: 123.48253pt x 97.66817pt.
+[7]
+
+LaTeX Warning: Citation 'SMOG' on page 8 undefined on input line 184.
+
+
+LaTeX Warning: Citation 'SMOG' on page 8 undefined on input line 187.
+
+<includegraphics/4-planar_worst_case.pdf, id=308, page=1, 129.88524pt x 49.5852
+5pt>
+File: includegraphics/4-planar_worst_case.pdf Graphic file (type pdf)
+<use includegraphics/4-planar_worst_case.pdf, page 1>
+Package pdftex.def Info: includegraphics/4-planar_worst_case.pdf , page1 used o
+n input line 194.
+(pdftex.def)             Requested size: 123.48253pt x 47.14127pt.
+<includegraphics/4-planar_worst_case.pdf, id=309, page=2, 342.68024pt x 49.5852
+5pt>
+File: includegraphics/4-planar_worst_case.pdf Graphic file (type pdf)
+<use includegraphics/4-planar_worst_case.pdf, page 2>
+Package pdftex.def Info: includegraphics/4-planar_worst_case.pdf , page2 used o
+n input line 199.
+(pdftex.def)             Requested size: 238.15038pt x 34.4605pt.
+[8 <./includegraphics/staircase-4-planar.pdf> <./includegraphics/staircase-4-pl
+anar.pdf>]
+
+LaTeX Warning: Citation 'SMOG' on page 9 undefined on input line 205.
+
+<includegraphics/smogify_uniform_staircase.pdf, id=323, page=1, 179.37012pt x 1
+07.10013pt>
+File: includegraphics/smogify_uniform_staircase.pdf Graphic file (type pdf)
+<use includegraphics/smogify_uniform_staircase.pdf, page 1>
+Package pdftex.def Info: includegraphics/smogify_uniform_staircase.pdf , page1 
+used on input line 214.
+(pdftex.def)             Requested size: 88.2022pt x 52.66417pt.
+<includegraphics/smogify_uniform_staircase.pdf, id=324, page=2, 322.10336pt x 1
+07.10013pt>
+File: includegraphics/smogify_uniform_staircase.pdf Graphic file (type pdf)
+<use includegraphics/smogify_uniform_staircase.pdf, page 2>
+Package pdftex.def Info: includegraphics/smogify_uniform_staircase.pdf , page2 
+used on input line 219.
+(pdftex.def)             Requested size: 158.76286pt x 52.79001pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--223
+
+ []
+
+<includegraphics/smogify_uniform_staircase.pdf, id=326, page=3, 128.8815pt x 15
+2.9715pt>
+File: includegraphics/smogify_uniform_staircase.pdf Graphic file (type pdf)
+<use includegraphics/smogify_uniform_staircase.pdf, page 3>
+Package pdftex.def Info: includegraphics/smogify_uniform_staircase.pdf , page3 
+used on input line 229.
+(pdftex.def)             Requested size: 69.46101pt x 82.44698pt.
+<includegraphics/smogify_uniform_staircase.pdf, id=327, page=4, 321.6015pt x 15
+2.9715pt>
+File: includegraphics/smogify_uniform_staircase.pdf Graphic file (type pdf)
+<use includegraphics/smogify_uniform_staircase.pdf, page 4>
+Package pdftex.def Info: includegraphics/smogify_uniform_staircase.pdf , page4 
+used on input line 234.
+(pdftex.def)             Requested size: 176.40439pt x 83.90816pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--238
+
+ []
+
+[9 <./includegraphics/4-planar_worst_case.pdf> <./includegraphics/4-planar_wors
+t_case.pdf> <./includegraphics/smogify_uniform_staircase.pdf> <./includegraphic
+s/smogify_uniform_staircase.pdf>]
+
+LaTeX Warning: Citation 'Tamassia' on page 10 undefined on input line 246.
+
+
+LaTeX Warning: Citation 'LombardiFlow' on page 10 undefined on input line 246.
+
+<includegraphics/kandinsky_bends.pdf, id=360, page=1, 338.66524pt x 210.18524pt
+>
+File: includegraphics/kandinsky_bends.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends.pdf, page 1>
+Package pdftex.def Info: includegraphics/kandinsky_bends.pdf , page1 used on in
+put line 259.
+(pdftex.def)             Requested size: 185.22852pt x 114.9608pt.
+[10 <./includegraphics/smogify_uniform_staircase.pdf> <./includegraphics/smogif
+y_uniform_staircase.pdf> <./includegraphics/kandinsky_bends.pdf>]
+
+LaTeX Warning: Citation 'SMOG' on page 11 undefined on input line 264.
+
+<includegraphics/kandinsky_bends.pdf, id=374, page=2, 330.63524pt x 105.79526pt
+>
+File: includegraphics/kandinsky_bends.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends.pdf, page 2>
+Package pdftex.def Info: includegraphics/kandinsky_bends.pdf , page2 used on in
+put line 274.
+(pdftex.def)             Requested size: 185.22852pt x 59.26915pt.
+<includegraphics/NP_4_variable_gadget.pdf, id=379, page=1, 490.23149pt x 338.66
+524pt>
+File: includegraphics/NP_4_variable_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_variable_gadget.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_4_variable_gadget.pdf , page1 used 
+on input line 298.
+(pdftex.def)             Requested size: 158.76286pt x 109.67732pt.
+<includegraphics/NP_4_variable_gadget.pdf, id=381, page=2, 474.1715pt x 338.665
+24pt>
+File: includegraphics/NP_4_variable_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_variable_gadget.pdf, page 2>
+Package pdftex.def Info: includegraphics/NP_4_variable_gadget.pdf , page2 used 
+on input line 303.
+(pdftex.def)             Requested size: 158.76286pt x 113.39284pt.
+[11 <./includegraphics/kandinsky_bends.pdf>]
+<includegraphics/NP_4_parity_gadget.pdf, id=396, page=1, 410.93524pt x 269.4627
+pt>
+File: includegraphics/NP_4_parity_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_parity_gadget.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_4_parity_gadget.pdf , page1 used on
+ input line 314.
+(pdftex.def)             Requested size: 158.76286pt x 104.10733pt.
+<includegraphics/NP_4_parity_gadget.pdf, id=398, page=2, 147.33846pt x 148.7457
+1pt>
+File: includegraphics/NP_4_parity_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_parity_gadget.pdf, page 2>
+Package pdftex.def Info: includegraphics/NP_4_parity_gadget.pdf , page2 used on
+ input line 319.
+(pdftex.def)             Requested size: 158.76286pt x 160.2889pt.
+<includegraphics/NP_4_auxiliary_gadget.pdf, id=401, page=1, 346.69525pt x 218.2
+1524pt>
+File: includegraphics/NP_4_auxiliary_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_auxiliary_gadget.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_4_auxiliary_gadget.pdf , page1 used
+ on input line 330.
+(pdftex.def)             Requested size: 158.76286pt x 99.92738pt.
+ [12 <./includegraphics/NP_4_variable_gadget.pdf> <./includegraphics/NP_4_varia
+ble_gadget.pdf> <./includegraphics/NP_4_parity_gadget.pdf> <./includegraphics/N
+P_4_parity_gadget.pdf>]
+<includegraphics/NP_4_auxiliary_gadget.pdf, id=478, page=2, 91.18466pt x 93.028
+55pt>
+File: includegraphics/NP_4_auxiliary_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_auxiliary_gadget.pdf, page 2>
+Package pdftex.def Info: includegraphics/NP_4_auxiliary_gadget.pdf , page2 used
+ on input line 340.
+(pdftex.def)             Requested size: 70.56067pt x 71.98991pt.
+<includegraphics/NP_4_auxiliary_gadget.pdf, id=479, page=3, 163.79395pt x 76.72
+363pt>
+File: includegraphics/NP_4_auxiliary_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_4_auxiliary_gadget.pdf, page 3>
+Package pdftex.def Info: includegraphics/NP_4_auxiliary_gadget.pdf , page3 used
+ on input line 345.
+(pdftex.def)             Requested size: 149.9448pt x 70.24123pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--349
+
+ []
+
+
+LaTeX Warning: Citation 'SMOcti_rel' on page 13 undefined on input line 354.
+
+
+Overfull \hbox (3.89655pt too wide) in paragraph at lines 354--355
+\T1/cmr/m/n/12 Recall that this is only a sketch of the re-duc-tion. For the wh
+ole proof, see [[]]. 
+ []
+
+) [13 <./includegraphics/NP_4_auxiliary_gadget.pdf> <./includegraphics/NP_4_aux
+iliary_gadget.pdf> <./includegraphics/NP_4_auxiliary_gadget.pdf>]
+\openout2 = `include/Kandinsky.aux'.
+
+
+(include/Kandinsky.tex [14
+
+
+]
+<includegraphics/boxing_alt.pdf, id=517, page=1, 128.8815pt x 128.8815pt>
+File: includegraphics/boxing_alt.pdf Graphic file (type pdf)
+<use includegraphics/boxing_alt.pdf, page 1>
+Package pdftex.def Info: includegraphics/boxing_alt.pdf , page1 used on input l
+ine 29.
+(pdftex.def)             Requested size: 92.61424pt x 92.61761pt.
+<includegraphics/boxing_alt.pdf, id=518, page=2, 385.84149pt x 186.1856pt>
+File: includegraphics/boxing_alt.pdf Graphic file (type pdf)
+<use includegraphics/boxing_alt.pdf, page 2>
+Package pdftex.def Info: includegraphics/boxing_alt.pdf , page2 used on input l
+ine 34.
+(pdftex.def)             Requested size: 203.75041pt x 98.31992pt.
+ [15 <./includegraphics/boxing_alt.pdf> <./includegraphics/boxing_alt.pdf>]
+<includegraphics/1vertex-multEdges.pdf, id=548, page=1, 64.6415pt x 96.7615pt>
+File: includegraphics/1vertex-multEdges.pdf Graphic file (type pdf)
+<use includegraphics/1vertex-multEdges.pdf, page 1>
+Package pdftex.def Info: includegraphics/1vertex-multEdges.pdf , page1 used on 
+input line 65.
+(pdftex.def)             Requested size: 72.76906pt x 108.92876pt.
+<includegraphics/1vertex-multEdges.pdf, id=549, page=2, 85.21838pt x 97.26338pt
+>
+File: includegraphics/1vertex-multEdges.pdf Graphic file (type pdf)
+<use includegraphics/1vertex-multEdges.pdf, page 2>
+Package pdftex.def Info: includegraphics/1vertex-multEdges.pdf , page2 used on 
+input line 70.
+(pdftex.def)             Requested size: 99.22998pt x 113.2649pt.
+<includegraphics/1vertex-multEdges.pdf, id=550, page=3, 88.7315pt x 97.26338pt>
+
+File: includegraphics/1vertex-multEdges.pdf Graphic file (type pdf)
+<use includegraphics/1vertex-multEdges.pdf, page 3>
+Package pdftex.def Info: includegraphics/1vertex-multEdges.pdf , page3 used on 
+input line 75.
+(pdftex.def)             Requested size: 100.55232pt x 110.22542pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--79
+
+ []
+
+
+LaTeX Warning: Citation 'SMOG' on page 16 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'SMOG' on page 16 undefined on input line 84.
+
+<includegraphics/4-planar_worst_case.pdf, id=556, page=3, 128.8815pt x 48.5815p
+t>
+File: includegraphics/4-planar_worst_case.pdf Graphic file (type pdf)
+<use includegraphics/4-planar_worst_case.pdf, page 3>
+Package pdftex.def Info: includegraphics/4-planar_worst_case.pdf , page3 used o
+n input line 92.
+(pdftex.def)             Requested size: 123.48253pt x 46.54799pt.
+<includegraphics/4-planar_worst_case.pdf, id=557, page=4, 342.17838pt x 49.0833
+7pt>
+File: includegraphics/4-planar_worst_case.pdf Graphic file (type pdf)
+<use includegraphics/4-planar_worst_case.pdf, page 4>
+Package pdftex.def Info: includegraphics/4-planar_worst_case.pdf , page4 used o
+n input line 97.
+(pdftex.def)             Requested size: 238.15038pt x 34.16113pt.
+[16 <./includegraphics/1vertex-multEdges.pdf> <./includegraphics/1vertex-multEd
+ges.pdf> <./includegraphics/1vertex-multEdges.pdf>]
+<includegraphics/non-unique-frag.pdf, id=576, page=1, 161.0015pt x 161.0015pt>
+File: includegraphics/non-unique-frag.pdf Graphic file (type pdf)
+<use includegraphics/non-unique-frag.pdf, page 1>
+Package pdftex.def Info: includegraphics/non-unique-frag.pdf , page1 used on in
+put line 138.
+(pdftex.def)             Requested size: 105.8437pt x 105.84366pt.
+<includegraphics/non-unique-frag.pdf, id=577, page=2, 161.0015pt x 161.0015pt>
+File: includegraphics/non-unique-frag.pdf Graphic file (type pdf)
+<use includegraphics/non-unique-frag.pdf, page 2>
+Package pdftex.def Info: includegraphics/non-unique-frag.pdf , page2 used on in
+put line 143.
+(pdftex.def)             Requested size: 105.8437pt x 105.84366pt.
+ [17 <./includegraphics/4-planar_worst_case.pdf> <./includegraphics/4-planar_wo
+rst_case.pdf>]
+<includegraphics/unmergable_frags.pdf, id=609, page=1, 209.18149pt x 209.18149p
+t>
+File: includegraphics/unmergable_frags.pdf Graphic file (type pdf)
+<use includegraphics/unmergable_frags.pdf, page 1>
+Package pdftex.def Info: includegraphics/unmergable_frags.pdf , page1 used on i
+nput line 168.
+(pdftex.def)             Requested size: 123.48253pt x 123.48303pt.
+ [18 <./includegraphics/non-unique-frag.pdf> <./includegraphics/non-unique-frag
+.pdf> <./includegraphics/unmergable_frags.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+<includegraphics/bad_fragmentation.pdf, id=653, page=1, 261.97874pt x 211.49013
+pt>
+File: includegraphics/bad_fragmentation.pdf Graphic file (type pdf)
+<use includegraphics/bad_fragmentation.pdf, page 1>
+Package pdftex.def Info: includegraphics/bad_fragmentation.pdf , page1 used on 
+input line 218.
+(pdftex.def)             Requested size: 92.61424pt x 74.76486pt.
+<includegraphics/bad_fragmentation.pdf, id=654, page=2, 259.67014pt x 211.49013
+pt>
+File: includegraphics/bad_fragmentation.pdf Graphic file (type pdf)
+<use includegraphics/bad_fragmentation.pdf, page 2>
+Package pdftex.def Info: includegraphics/bad_fragmentation.pdf , page2 used on 
+input line 223.
+(pdftex.def)             Requested size: 92.61424pt x 75.42964pt.
+<includegraphics/bad_fragmentation.pdf, id=657, page=3, 257.3615pt x 209.18149p
+t>
+File: includegraphics/bad_fragmentation.pdf Graphic file (type pdf)
+<use includegraphics/bad_fragmentation.pdf, page 3>
+Package pdftex.def Info: includegraphics/bad_fragmentation.pdf , page3 used on 
+input line 229.
+(pdftex.def)             Requested size: 92.61424pt x 75.27654pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19] [20 <./includegraphics/bad_fragmentation.pdf> <./includegraphics/bad_fragm
+entation.pdf> <./includegraphics/bad_fragmentation.pdf>]
+<includegraphics/bad_2ndfrag.pdf, id=728, page=1, 37.70085pt x 104.82462pt>
+File: includegraphics/bad_2ndfrag.pdf Graphic file (type pdf)
+<use includegraphics/bad_2ndfrag.pdf, page 1>
+Package pdftex.def Info: includegraphics/bad_2ndfrag.pdf , page1 used on input 
+line 300.
+(pdftex.def)             Requested size: 52.92184pt x 147.1501pt.
+<includegraphics/bad_2ndfrag.pdf, id=729, page=2, 37.70085pt x 104.93805pt>
+File: includegraphics/bad_2ndfrag.pdf Graphic file (type pdf)
+<use includegraphics/bad_2ndfrag.pdf, page 2>
+Package pdftex.def Info: includegraphics/bad_2ndfrag.pdf , page2 used on input 
+line 305.
+(pdftex.def)             Requested size: 52.92184pt x 147.30936pt.
+<includegraphics/bad_2ndfrag.pdf, id=732, page=3, 37.70085pt x 104.90793pt>
+File: includegraphics/bad_2ndfrag.pdf Graphic file (type pdf)
+<use includegraphics/bad_2ndfrag.pdf, page 3>
+Package pdftex.def Info: includegraphics/bad_2ndfrag.pdf , page3 used on input 
+line 311.
+(pdftex.def)             Requested size: 52.92184pt x 147.26706pt.
+ [21] [22 <./includegraphics/bad_2ndfrag.pdf> <./includegraphics/bad_2ndfrag.pd
+f> <./includegraphics/bad_2ndfrag.pdf>] [23]
+<includegraphics/non-unique-min.pdf, id=837, page=1, 96.7615pt x 161.0015pt>
+File: includegraphics/non-unique-min.pdf Graphic file (type pdf)
+<use includegraphics/non-unique-min.pdf, page 1>
+Package pdftex.def Info: includegraphics/non-unique-min.pdf , page1 used on inp
+ut line 392.
+(pdftex.def)             Requested size: 52.92184pt x 88.05974pt.
+<includegraphics/non-unique-min.pdf, id=838, page=2, 96.7615pt x 161.0015pt>
+File: includegraphics/non-unique-min.pdf Graphic file (type pdf)
+<use includegraphics/non-unique-min.pdf, page 2>
+Package pdftex.def Info: includegraphics/non-unique-min.pdf , page2 used on inp
+ut line 397.
+(pdftex.def)             Requested size: 52.92184pt x 88.05974pt.
+<includegraphics/non-unique-min.pdf, id=839, page=3, 96.7615pt x 161.0015pt>
+File: includegraphics/non-unique-min.pdf Graphic file (type pdf)
+<use includegraphics/non-unique-min.pdf, page 3>
+Package pdftex.def Info: includegraphics/non-unique-min.pdf , page3 used on inp
+ut line 402.
+(pdftex.def)             Requested size: 52.92184pt x 88.05974pt.
+ [24 <./includegraphics/non-unique-min.pdf> <./includegraphics/non-unique-min.p
+df> <./includegraphics/non-unique-min.pdf>]
+
+LaTeX Warning: Citation 'SMOG' on page 25 undefined on input line 434.
+
+
+Overfull \hbox (3.25699pt too wide) in paragraph at lines 446--447
+[]\T1/cmr/m/n/12 Consider equa-tion []5[], com-put-ing the edge com-plex-ity of
+ a post-pro-cessed polyedge.
+ []
+
+[25] [26]) [27]
+\openout2 = `include/Saving.aux'.
+
+ (include/Saving.tex
+<includegraphics/kandinsky_bends_arbitrary.pdf, id=903, page=2, 329.6315pt x 10
+4.7915pt>
+File: includegraphics/kandinsky_bends_arbitrary.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends_arbitrary.pdf, page 2>
+Package pdftex.def Info: includegraphics/kandinsky_bends_arbitrary.pdf , page2 
+used on input line 10.
+(pdftex.def)             Requested size: 185.22852pt x 58.88591pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--13
+
+ []
+
+<includegraphics/kandinsky_bends_arbitrary.pdf, id=909, page=3, 145.25267pt x 2
+09.69641pt>
+File: includegraphics/kandinsky_bends_arbitrary.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends_arbitrary.pdf, page 3>
+Package pdftex.def Info: includegraphics/kandinsky_bends_arbitrary.pdf , page3 
+used on input line 29.
+(pdftex.def)             Requested size: 52.92184pt x 76.40256pt.
+<includegraphics/kandinsky_bends_arbitrary.pdf, id=910, page=4, 145.25267pt x 2
+09.69641pt>
+File: includegraphics/kandinsky_bends_arbitrary.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends_arbitrary.pdf, page 4>
+Package pdftex.def Info: includegraphics/kandinsky_bends_arbitrary.pdf , page4 
+used on input line 34.
+(pdftex.def)             Requested size: 52.92184pt x 76.40256pt.
+<includegraphics/kandinsky_bends_arbitrary.pdf, id=911, page=5, 329.6315pt x 10
+4.7915pt>
+File: includegraphics/kandinsky_bends_arbitrary.pdf Graphic file (type pdf)
+<use includegraphics/kandinsky_bends_arbitrary.pdf, page 5>
+Package pdftex.def Info: includegraphics/kandinsky_bends_arbitrary.pdf , page5 
+used on input line 44.
+(pdftex.def)             Requested size: 185.22852pt x 58.88591pt.
+[28
+
+
+ <./includegraphics/kandinsky_bends_arbitrary.pdf> <./includegraphics/kandinsky
+_bends_arbitrary.pdf> <./includegraphics/kandinsky_bends_arbitrary.pdf>]
+<includegraphics/port_reassignment_not_possible.pdf, id=926, page=1, 177.0615pt
+ x 177.0615pt>
+File: includegraphics/port_reassignment_not_possible.pdf Graphic file (type pdf
+)
+<use includegraphics/port_reassignment_not_possible.pdf, page 1>
+Package pdftex.def Info: includegraphics/port_reassignment_not_possible.pdf , p
+age1 used on input line 53.
+(pdftex.def)             Requested size: 89.30487pt x 89.30591pt.
+<includegraphics/port_reassignment_not_possible.pdf, id=927, page=2, 273.4215pt
+ x 177.0615pt>
+File: includegraphics/port_reassignment_not_possible.pdf Graphic file (type pdf
+)
+<use includegraphics/port_reassignment_not_possible.pdf, page 2>
+Package pdftex.def Info: includegraphics/port_reassignment_not_possible.pdf , p
+age2 used on input line 58.
+(pdftex.def)             Requested size: 138.91902pt x 89.96513pt.
+
+
+LaTeX Warning: Citation 'podevsaef' on page 29 undefined on input line 65.
+
+<includegraphics/L-t-shape_candidates.pdf, id=929, page=1, 144.9415pt x 80.7015
+pt>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 1>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page1 used 
+on input line 70.
+(pdftex.def)             Requested size: 101.7821pt x 56.67168pt.
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 2>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page2 used 
+on input line 75.
+(pdftex.def)             Requested size: 151.27011pt x 55.22957pt.
+<includegraphics/L-t-shape_candidates.pdf, id=932, page=3, 80.7015pt x 64.6415p
+t>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 3>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page3 used 
+on input line 85.
+(pdftex.def)             Requested size: 70.56201pt x 56.52367pt.
+<includegraphics/L-t-shape_candidates.pdf, id=933, page=4, 128.8815pt x 64.6415
+pt>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 4>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page4 used 
+on input line 90.
+(pdftex.def)             Requested size: 120.39713pt x 60.38817pt.
+<includegraphics/L-t-shape_candidates.pdf, id=934, page=5, 128.8815pt x 64.6415
+pt>
+File: includegraphics/L-t-shape_candidates.pdf Graphic file (type pdf)
+<use includegraphics/L-t-shape_candidates.pdf, page 5>
+Package pdftex.def Info: includegraphics/L-t-shape_candidates.pdf , page5 used 
+on input line 95.
+(pdftex.def)             Requested size: 120.39713pt x 60.38817pt.
+[29 <./includegraphics/kandinsky_bends_arbitrary.pdf> <./includegraphics/port_r
+eassignment_not_possible.pdf> <./includegraphics/port_reassignment_not_possible
+.pdf> <./includegraphics/L-t-shape_candidates.pdf>]
+<includegraphics/vertical_fragment_1.pdf, id=959, page=1, 36.5365pt x 104.7915p
+t>
+File: includegraphics/vertical_fragment_1.pdf Graphic file (type pdf)
+<use includegraphics/vertical_fragment_1.pdf, page 1>
+Package pdftex.def Info: includegraphics/vertical_fragment_1.pdf , page1 used o
+n input line 114.
+(pdftex.def)             Requested size: 36.38416pt x 104.35791pt.
+<includegraphics/vertical_fragment_1.pdf, id=960, page=2, 36.5365pt x 104.7915p
+t>
+File: includegraphics/vertical_fragment_1.pdf Graphic file (type pdf)
+<use includegraphics/vertical_fragment_1.pdf, page 2>
+Package pdftex.def Info: includegraphics/vertical_fragment_1.pdf , page2 used o
+n input line 119.
+(pdftex.def)             Requested size: 36.38416pt x 104.35791pt.
+<includegraphics/vertical_fragment_1.pdf, id=961, page=3, 69.15837pt x 104.7915
+pt>
+File: includegraphics/vertical_fragment_1.pdf Graphic file (type pdf)
+<use includegraphics/vertical_fragment_1.pdf, page 3>
+Package pdftex.def Info: includegraphics/vertical_fragment_1.pdf , page3 used o
+n input line 124.
+(pdftex.def)             Requested size: 63.50757pt x 96.23186pt.
+ [30 <./includegraphics/L-t-shape_candidates.pdf> <./includegraphics/L-t-shape_
+candidates.pdf> <./includegraphics/L-t-shape_candidates.pdf> <./includegraphics
+/vertical_fragment_1.pdf> <./includegraphics/vertical_fragment_1.pdf> <./includ
+egraphics/vertical_fragment_1.pdf>]
+<includegraphics/plane_sweep_save.pdf, id=979, page=1, 80.7015pt x 80.7015pt>
+File: includegraphics/plane_sweep_save.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_save.pdf, page 1>
+Package pdftex.def Info: includegraphics/plane_sweep_save.pdf , page1 used on i
+nput line 138.
+(pdftex.def)             Requested size: 58.21376pt x 58.21463pt.
+<includegraphics/plane_sweep_save.pdf, id=980, page=2, 144.9415pt x 80.7015pt>
+File: includegraphics/plane_sweep_save.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_save.pdf, page 2>
+Package pdftex.def Info: includegraphics/plane_sweep_save.pdf , page2 used on i
+nput line 143.
+(pdftex.def)             Requested size: 116.42976pt x 64.82727pt.
+<includegraphics/plane_sweep_save.pdf, id=981, page=3, 80.7015pt x 80.7015pt>
+File: includegraphics/plane_sweep_save.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_save.pdf, page 3>
+Package pdftex.def Info: includegraphics/plane_sweep_save.pdf , page3 used on i
+nput line 148.
+(pdftex.def)             Requested size: 56.45068pt x 56.45126pt.
+<includegraphics/plane_sweep_linear_saving.pdf, id=983, page=1, 177.0615pt x 14
+4.9415pt>
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 1>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page1 
+used on input line 170.
+(pdftex.def)             Requested size: 99.2283pt x 81.22859pt.
+<includegraphics/plane_sweep_linear_saving.pdf, id=984, page=2, 112.8215pt x 11
+2.8215pt>
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 2>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page2 
+used on input line 175.
+(pdftex.def)             Requested size: 88.2022pt x 88.20181pt.
+ [31 <./includegraphics/plane_sweep_save.pdf> <./includegraphics/plane_sweep_sa
+ve.pdf> <./includegraphics/plane_sweep_save.pdf>]
+<includegraphics/plane_sweep_linear_saving.pdf, id=1002, page=3, 353.7215pt x 1
+44.9415pt>
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 3>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page3 
+used on input line 185.
+(pdftex.def)             Requested size: 138.91902pt x 56.92282pt.
+<includegraphics/plane_sweep_linear_saving.pdf, id=1003, page=4, 209.18149pt x 
+80.7015pt>
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 4>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page4 
+used on input line 190.
+(pdftex.def)             Requested size: 123.48253pt x 47.63933pt.
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 1>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page1 
+used on input line 200.
+(pdftex.def)             Requested size: 99.2283pt x 81.22859pt.
+<includegraphics/plane_sweep_linear_saving.pdf, id=1005, page=5, 80.7015pt x 80
+.7015pt>
+File: includegraphics/plane_sweep_linear_saving.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_linear_saving.pdf, page 5>
+Package pdftex.def Info: includegraphics/plane_sweep_linear_saving.pdf , page5 
+used on input line 205.
+(pdftex.def)             Requested size: 88.2022pt x 88.20795pt.
+<includegraphics/plane_sweep_not_working.pdf, id=1006, page=1, 104.7915pt x 47.
+79857pt>
+File: includegraphics/plane_sweep_not_working.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_not_working.pdf, page 1>
+Package pdftex.def Info: includegraphics/plane_sweep_not_working.pdf , page1 us
+ed on input line 217.
+(pdftex.def)             Requested size: 132.30666pt x 60.35414pt.
+<includegraphics/plane_sweep_not_working.pdf, id=1009, page=2, 72.67151pt x 40.
+5515pt>
+File: includegraphics/plane_sweep_not_working.pdf Graphic file (type pdf)
+<use includegraphics/plane_sweep_not_working.pdf, page 2>
+Package pdftex.def Info: includegraphics/plane_sweep_not_working.pdf , page2 us
+ed on input line 226.
+(pdftex.def)             Requested size: 132.30666pt x 73.8434pt.
+ [32 <./includegraphics/plane_sweep_linear_saving.pdf> <./includegraphics/plane
+_sweep_linear_saving.pdf> <./includegraphics/plane_sweep_linear_saving.pdf> <./
+includegraphics/plane_sweep_linear_saving.pdf> <./includegraphics/plane_sweep_l
+inear_saving.pdf> <./includegraphics/plane_sweep_not_working.pdf>]
+<includegraphics/4M_Moving_arcs.pdf, id=1042, page=1, 48.5815pt x 77.87393pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 1>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page1 used on inp
+ut line 242.
+(pdftex.def)             Requested size: 70.56067pt x 113.1127pt.
+<includegraphics/4M_Moving_arcs.pdf, id=1043, page=2, 24.4915pt x 77.3279pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 2>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page2 used on inp
+ut line 247.
+(pdftex.def)             Requested size: 35.28033pt x 111.40517pt.
+<includegraphics/4M_Moving_arcs.pdf, id=1045, page=3, 48.5815pt x 77.87393pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 3>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page3 used on inp
+ut line 257.
+(pdftex.def)             Requested size: 70.56067pt x 113.1127pt.
+<includegraphics/4M_Moving_arcs.pdf, id=1046, page=4, 32.5215pt x 77.18938pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 4>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page4 used on inp
+ut line 262.
+(pdftex.def)             Requested size: 46.74706pt x 110.95944pt.
+ [33 <./includegraphics/plane_sweep_not_working.pdf> <./includegraphics/4M_Movi
+ng_arcs.pdf> <./includegraphics/4M_Moving_arcs.pdf>]
+<includegraphics/4M_Moving_arcs.pdf, id=1099, page=5, 65.4445pt x 77.18938pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 5>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page5 used on inp
+ut line 273.
+(pdftex.def)             Requested size: 123.48253pt x 145.65782pt.
+<includegraphics/4M_Moving_arcs.pdf, id=1100, page=6, 65.4445pt x 77.18938pt>
+File: includegraphics/4M_Moving_arcs.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs.pdf, page 6>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs.pdf , page6 used on inp
+ut line 278.
+(pdftex.def)             Requested size: 123.48253pt x 145.65782pt.
+<includegraphics/4M_Moving_arcs_upward.pdf, id=1102, page=1, 88.7315pt x 91.052
+17pt>
+File: includegraphics/4M_Moving_arcs_upward.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs_upward.pdf, page 1>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs_upward.pdf , page1 used
+ on input line 289.
+(pdftex.def)             Requested size: 123.48253pt x 126.71774pt.
+<includegraphics/4M_Moving_arcs_upward.pdf, id=1103, page=2, 72.73073pt x 90.36
+761pt>
+File: includegraphics/4M_Moving_arcs_upward.pdf Graphic file (type pdf)
+<use includegraphics/4M_Moving_arcs_upward.pdf, page 2>
+Package pdftex.def Info: includegraphics/4M_Moving_arcs_upward.pdf , page2 used
+ on input line 294.
+(pdftex.def)             Requested size: 105.8437pt x 131.5164pt.
+ [34 <./includegraphics/4M_Moving_arcs.pdf> <./includegraphics/4M_Moving_arcs.p
+df> <./includegraphics/4M_Moving_arcs.pdf> <./includegraphics/4M_Moving_arcs.pd
+f>]
+Overfull \hbox (9.40045pt too wide) in paragraph at lines 301--302
+[][]\T1/cmr/bx/n/12 Definition 19 \T1/cmr/m/n/12 (mod-i-fied mov-ing line $\OML
+/cmm/m/it/12 J[]$\T1/cmr/m/n/12 )\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 An area-sa
+ving mov-ing line $\OML/cmm/m/it/12 J[]$ \T1/cmr/m/it/12 for a smoothened
+ []
+
+[35 <./includegraphics/4M_Moving_arcs_upward.pdf> <./includegraphics/4M_Moving_
+arcs_upward.pdf>]
+<includegraphics/ellipse_example_values.pdf, id=1136, page=1, 131.2102pt x 154.
+10474pt>
+File: includegraphics/ellipse_example_values.pdf Graphic file (type pdf)
+<use includegraphics/ellipse_example_values.pdf, page 1>
+Package pdftex.def Info: includegraphics/ellipse_example_values.pdf , page1 use
+d on input line 338.
+(pdftex.def)             Requested size: 123.48253pt x 145.03482pt.
+ [36]
+File: includegraphics/ellipse_example_values.pdf Graphic file (type pdf)
+<use includegraphics/ellipse_example_values.pdf, page 1>
+Package pdftex.def Info: includegraphics/ellipse_example_values.pdf , page1 use
+d on input line 357.
+(pdftex.def)             Requested size: 92.61424pt x 108.77788pt.
+<includegraphics/ellipse_example_values.pdf, id=1148, page=2, 163.3302pt x 181.
+98389pt>
+File: includegraphics/ellipse_example_values.pdf Graphic file (type pdf)
+<use includegraphics/ellipse_example_values.pdf, page 2>
+Package pdftex.def Info: includegraphics/ellipse_example_values.pdf , page2 use
+d on input line 362.
+(pdftex.def)             Requested size: 92.61424pt x 103.1904pt.
+<includegraphics/ellipse_example_values.pdf, id=1149, page=3, 163.3302pt x 181.
+79419pt>
+File: includegraphics/ellipse_example_values.pdf Graphic file (type pdf)
+<use includegraphics/ellipse_example_values.pdf, page 3>
+Package pdftex.def Info: includegraphics/ellipse_example_values.pdf , page3 use
+d on input line 367.
+(pdftex.def)             Requested size: 92.61424pt x 103.08282pt.
+ [37 <./includegraphics/ellipse_example_values.pdf>]
+<includegraphics/vSMOG_example_values.pdf, id=1189, page=1, 133.27893pt x 154.1
+0474pt>
+File: includegraphics/vSMOG_example_values.pdf Graphic file (type pdf)
+<use includegraphics/vSMOG_example_values.pdf, page 1>
+Package pdftex.def Info: includegraphics/vSMOG_example_values.pdf , page1 used 
+on input line 378.
+(pdftex.def)             Requested size: 92.61424pt x 107.08954pt.
+<includegraphics/vSMOG_example_values.pdf, id=1190, page=2, 162.66772pt x 181.9
+8389pt>
+File: includegraphics/vSMOG_example_values.pdf Graphic file (type pdf)
+<use includegraphics/vSMOG_example_values.pdf, page 2>
+Package pdftex.def Info: includegraphics/vSMOG_example_values.pdf , page2 used 
+on input line 383.
+(pdftex.def)             Requested size: 92.61424pt x 103.61247pt.
+<includegraphics/vSMOG_example_values.pdf, id=1191, page=3, 162.66772pt x 181.7
+9419pt>
+File: includegraphics/vSMOG_example_values.pdf Graphic file (type pdf)
+<use includegraphics/vSMOG_example_values.pdf, page 3>
+Package pdftex.def Info: includegraphics/vSMOG_example_values.pdf , page3 used 
+on input line 388.
+(pdftex.def)             Requested size: 92.61424pt x 103.50447pt.
+)
+[38 <./includegraphics/ellipse_example_values.pdf> <./includegraphics/ellipse_e
+xample_values.pdf> <./includegraphics/vSMOG_example_values.pdf> <./includegraph
+ics/vSMOG_example_values.pdf> <./includegraphics/vSMOG_example_values.pdf>]
+\openout2 = `include/Related.aux'.
+
+
+(include/Related.tex
+<includegraphics/NP_center_of_circles.pdf, id=1234, page=1, 129.38336pt x 129.3
+8336pt>
+File: includegraphics/NP_center_of_circles.pdf Graphic file (type pdf)
+<use includegraphics/NP_center_of_circles.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_center_of_circles.pdf , page1 used 
+on input line 11.
+(pdftex.def)             Requested size: 132.30666pt x 132.31476pt.
+ [39
+
+
+ <./includegraphics/NP_center_of_circles.pdf>]
+<includegraphics/NP_m_variable_gadget.pdf, id=1260, page=1, 490.23149pt x 338.6
+6524pt>
+File: includegraphics/NP_m_variable_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_m_variable_gadget.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_m_variable_gadget.pdf , page1 used 
+on input line 27.
+(pdftex.def)             Requested size: 158.76286pt x 109.67732pt.
+<includegraphics/NP_m_variable_gadget.pdf, id=1262, page=2, 474.1715pt x 338.16
+338pt>
+File: includegraphics/NP_m_variable_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_m_variable_gadget.pdf, page 2>
+Package pdftex.def Info: includegraphics/NP_m_variable_gadget.pdf , page2 used 
+on input line 32.
+(pdftex.def)             Requested size: 158.76286pt x 113.2248pt.
+<includegraphics/NP_m_parity_gadget.pdf, id=1265, page=1, 410.93524pt x 271.962
+07pt>
+File: includegraphics/NP_m_parity_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_m_parity_gadget.pdf, page 1>
+Package pdftex.def Info: includegraphics/NP_m_parity_gadget.pdf , page1 used on
+ input line 44.
+(pdftex.def)             Requested size: 238.15038pt x 157.6136pt.
+<includegraphics/NP_m_parity_gadget.pdf, id=1267, page=2, 170.63348pt x 153.012
+65pt>
+File: includegraphics/NP_m_parity_gadget.pdf Graphic file (type pdf)
+<use includegraphics/NP_m_parity_gadget.pdf, page 2>
+Package pdftex.def Info: includegraphics/NP_m_parity_gadget.pdf , page2 used on
+ input line 49.
+(pdftex.def)             Requested size: 105.8437pt x 94.91354pt.
+ [40 <./includegraphics/NP_m_variable_gadget.pdf> <./includegraphics/NP_m_varia
+ble_gadget.pdf> <./includegraphics/NP_m_parity_gadget.pdf> <./includegraphics/N
+P_m_parity_gadget.pdf>]
+<includegraphics/new_model_hourglass.pdf, id=1349, page=1, 112.8215pt x 241.301
+5pt>
+File: includegraphics/new_model_hourglass.pdf Graphic file (type pdf)
+<use includegraphics/new_model_hourglass.pdf, page 1>
+Package pdftex.def Info: includegraphics/new_model_hourglass.pdf , page1 used o
+n input line 73.
+(pdftex.def)             Requested size: 66.15332pt x 141.48665pt.
+<includegraphics/new_model_hourglass.pdf, id=1350, page=3, 128.8815pt x 144.941
+5pt>
+File: includegraphics/new_model_hourglass.pdf Graphic file (type pdf)
+<use includegraphics/new_model_hourglass.pdf, page 3>
+Package pdftex.def Info: includegraphics/new_model_hourglass.pdf , page3 used o
+n input line 78.
+(pdftex.def)             Requested size: 66.15332pt x 74.3991pt.
+<includegraphics/new_model_hourglass.pdf, id=1351, page=2, 112.8215pt x 241.301
+5pt>
+File: includegraphics/new_model_hourglass.pdf Graphic file (type pdf)
+<use includegraphics/new_model_hourglass.pdf, page 2>
+Package pdftex.def Info: includegraphics/new_model_hourglass.pdf , page2 used o
+n input line 83.
+(pdftex.def)             Requested size: 66.15332pt x 141.48665pt.
+ [41 <./includegraphics/new_model_hourglass.pdf> <./includegraphics/new_model_h
+ourglass.pdf> <./includegraphics/new_model_hourglass.pdf>]
+<includegraphics/new_model_eighth_prop.pdf, id=1367, page=1, 184.99715pt x 184.
+99313pt>
+File: includegraphics/new_model_eighth_prop.pdf Graphic file (type pdf)
+<use includegraphics/new_model_eighth_prop.pdf, page 1>
+Package pdftex.def Info: includegraphics/new_model_eighth_prop.pdf , page1 used
+ on input line 96.
+(pdftex.def)             Requested size: 123.48253pt x 123.4818pt.
+<includegraphics/new_model_eighth_prop.pdf, id=1368, page=2, 132.59738pt x 56.5
+1314pt>
+File: includegraphics/new_model_eighth_prop.pdf Graphic file (type pdf)
+<use includegraphics/new_model_eighth_prop.pdf, page 2>
+Package pdftex.def Info: includegraphics/new_model_eighth_prop.pdf , page2 used
+ on input line 101.
+(pdftex.def)             Requested size: 132.59705pt x 56.51299pt.
+<includegraphics/cSMOG_arcs.pdf, id=1369, page=3, 106.75885pt x 99.09322pt>
+File: includegraphics/cSMOG_arcs.pdf Graphic file (type pdf)
+<use includegraphics/cSMOG_arcs.pdf, page 3>
+Package pdftex.def Info: includegraphics/cSMOG_arcs.pdf , page3 used on input l
+ine 127.
+(pdftex.def)             Requested size: 101.8752pt x 94.55988pt.
+<includegraphics/cSMOG_arcs.pdf, id=1370, page=1, 106.75885pt x 99.0902pt>
+File: includegraphics/cSMOG_arcs.pdf Graphic file (type pdf)
+<use includegraphics/cSMOG_arcs.pdf, page 1>
+Package pdftex.def Info: includegraphics/cSMOG_arcs.pdf , page1 used on input l
+ine 131.
+(pdftex.def)             Requested size: 101.8752pt x 94.55698pt.
+<includegraphics/cSMOG_arcs.pdf, id=1371, page=2, 106.75885pt x 99.0892pt>
+File: includegraphics/cSMOG_arcs.pdf Graphic file (type pdf)
+<use includegraphics/cSMOG_arcs.pdf, page 2>
+Package pdftex.def Info: includegraphics/cSMOG_arcs.pdf , page2 used on input l
+ine 134.
+(pdftex.def)             Requested size: 101.8752pt x 94.55605pt.
+
+[42 <./includegraphics/new_model_eighth_prop.pdf> <./includegraphics/new_model_
+eighth_prop.pdf>]
+<includegraphics/cSMOG_arcs.pdf, id=1431, page=5, 105.92874pt x 100.54263pt>
+File: includegraphics/cSMOG_arcs.pdf Graphic file (type pdf)
+<use includegraphics/cSMOG_arcs.pdf, page 5>
+Package pdftex.def Info: includegraphics/cSMOG_arcs.pdf , page5 used on input l
+ine 143.
+(pdftex.def)             Requested size: 123.48253pt x 117.21095pt.
+ [43 <./includegraphics/cSMOG_arcs.pdf> <./includegraphics/cSMOG_arcs.pdf> <./i
+ncludegraphics/cSMOG_arcs.pdf> <./includegraphics/cSMOG_arcs.pdf>]) [44]
+\openout2 = `include/Example.aux'.
+
+ (include/Example.tex
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 1>
+Package pdftex.def Info: includegraphics/big-example.pdf , page1 used on input 
+line 7.
+(pdftex.def)             Requested size: 88.2022pt x 138.4235pt.
+<includegraphics/big-example.pdf, id=1473, page=2, 594.42076pt x 177.0615pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 2>
+Package pdftex.def Info: includegraphics/big-example.pdf , page2 used on input 
+line 16.
+(pdftex.def)             Requested size: 352.81552pt x 105.09486pt.
+<includegraphics/big-example.pdf, id=1474, page=3, 594.42076pt x 177.56337pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 3>
+Package pdftex.def Info: includegraphics/big-example.pdf , page3 used on input 
+line 24.
+(pdftex.def)             Requested size: 352.81552pt x 105.39275pt.
+<includegraphics/big-example.pdf, id=1475, page=4, 289.28076pt x 177.56337pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 4>
+Package pdftex.def Info: includegraphics/big-example.pdf , page4 used on input 
+line 33.
+(pdftex.def)             Requested size: 264.61333pt x 162.43906pt.
+ [45
+
+
+ <./includegraphics/big-example.pdf> <./includegraphics/big-example.pdf>]
+<includegraphics/big-example.pdf, id=1486, page=7, 265.3915pt x 177.56337pt>
+File: includegraphics/big-example.pdf Graphic file (type pdf)
+<use includegraphics/big-example.pdf, page 7>
+Package pdftex.def Info: includegraphics/big-example.pdf , page7 used on input 
+line 42.
+(pdftex.def)             Requested size: 264.61333pt x 177.05083pt.
+) [46 <./includegraphics/big-example.pdf> <./includegraphics/big-example.pdf>]
+\openout2 = `include/open_problems.aux'.
+
+ (include/open_problems.tex) [47
+
+
+]
+\openout2 = `include/acknowledgements.aux'.
+
+
+(include/acknowledgements.tex) [48
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 112.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+(master.aux (include/deckblatt.aux) (include/abstract_ger.aux)
+(include/abstract.aux) (include/Erklaerung.aux) (include/introduction.aux)
+(include/preliminaries.aux) (include/Kandinsky.aux) (include/Saving.aux)
+(include/Related.aux) (include/Example.aux) (include/open_problems.aux)
+(include/acknowledgements.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package rerunfilecheck Info: File `master.out' has not changed.
+(rerunfilecheck)             Checksum: 8EC92D05957C0E262E5669BC1407CBD6;2225.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                master
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'master.run.xml'.
+\openout1 = `master.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+ ) 
+Here is how much of TeX's memory you used:
+ 20883 strings out of 492970
+ 364303 string characters out of 3135851
+ 878004 words of memory out of 3000000
+ 23994 multiletter control sequences out of 15000+200000
+ 28156 words of font info for 74 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,19n,51p,9087b,3000s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecti1095.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecrm0800.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ectt0800.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecit1200.pk> <C:\Users\Cobbie\AppData\Local\M
+iKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti0800.pk> <C:\Users\Cobbie\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0800.pk> <C:\Users\
+Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk>
+ <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+ctt1200.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1440.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Cobbie\AppData\Local\MiK
+TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\Cobbie\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\Co
+bbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <
+C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
+x2074.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\ecrm1095.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ecrm1728.pk> <C:\Users\Cobbie\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb>
+Output written on master.pdf (54 pages, 1316954 bytes).
+PDF statistics:
+ 2223 PDF objects out of 2487 (max. 8388607)
+ 388 named destinations out of 1000 (max. 500000)
+ 813 words of extra memory for PDF output out of 10000 (max. 10000000)
+

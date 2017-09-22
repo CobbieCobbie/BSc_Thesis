@@ -1,0 +1,33 @@
+\label{key}\section{Preliminaries}
+There are a variety of results regarding a special class of graphs - In the following section, let $G$ be a planar graph with maximum degree 4 and a port constraint. Every vertex is connected to at most one polyedge on each cardinal direction (North, South, East, West). 
+\subsection{Fixed Layout Model}
+Considering a drawing of an orthogonal graph $\Gamma_G$ in the Fixed Layout Model, the position of the vertices cannot be altered. This is a rather strict constraint. The implementation of circular arcs in a polyline lead to an increase of the edge complexity. Every bend is substituted with a quarter arc, resulting in two new bends in the worst case.
+\begin{theorem}
+	In the Fixed Layout Model, the edge complexity of a given orthogonal graph $G$ might increase from $k$ to $2k-1$.
+\end{theorem}
+The reason for the edge complexity increase is the fixation of the vertices and following counterexample regarding so-called \grqq Staircase Edges\grqq.
+\begin{center}
+	TODO: Staircase of 4-planar graph in Fixed Layout
+\end{center}
+It is already clear, that the Fixed Layout Model is rather too restrictive to process orthogonal graphs to SMOGs. A different approach is the Fixed Shape Model, where the embedding is contained regarding the circular ordering of the polyedges around a vertex.
+\subsection{Fixed Shape Model}
+In the Fixed Shape Model, the orientation of the vertices (North, East, West, South) and the embedding (circular ordering of the edges connected tp 1a vertex) is preserved. The vertices are of uniform size but can be repositioned on the course integer grid. Due to the horizontal stretching technique by the factor of $l$ (longest vertical segment), there is new space left and right from every vertical line segment. To be more precise, there is an empty box left and right from every vertical line with size $l'\times l'$, while $l'$ is the length of the regarding vertical line.\\
+In practice, the SMOG Model is derived from the Kandinsky Model using basically two plane sweeps: The first plane sweep stretches the Kandinsky drawing horizontally by the factor of the longest vertical line segment. The second plane sweep erases 90 degree bends by circular arc substitution, making the drawing \textit{smooth}. The resulting drawing is in $\Rho(n^2) \times \Rho(n)$ area due to the horizontal stretching.
+\begin{theorem}
+	If the bends of a polyline are purely \underline{uniform} (in the same direction), then there is a SMOG representation of that polyline without an increase of complexity. Similarily, if the polyline is purely \underline{alternating}, the edge complexity raises from $k$ to $\lceil\frac{3}{2}k\rceil$.
+\end{theorem}
+\begin{sketch}
+	If a polyline is purely uniform, consider the vertical segments; If the a vertical segment lies between two horizonal segments, substitute that vertical segment with a semicircle arc. If a vertical segment is connected to a vertex and a segment, substitute the vertical segment with a quadrant arc. If the polyedge consists of one vertical segment, then two vertices are at both ends. The edge is not altered. The space around a vertical segment, necessary for the circle arc substitution, is guaranteed by stretching the entire drawing horizontally by a factor of the longest vertical segment.
+\end{sketch}
+\begin{theorem}
+	Let $G$ be an orthogonal graph. If any polyline is alternating at some point, $G$ can be minimized regarding the number of bends. \label{th:alt_not_min}
+\end{theorem}
+\begin{sketch}
+	We show the theorem by flow minimization over the dual graph the following way: for each alternation we send one unit of flow from one face to another. Determining the unit of the minimized flow and the direction between both faces determines the minimal direction changes of an edge resulting in a lower number of bends.
+\end{sketch}
+\begin{theorem}
+	In the Fixed Shape Model, an orthogonal graph $G$ - with minimal number of bends and an edge complexity of $k$ - can be transferred to a SMOG without an edge complexity increase under $\Rho(n^2) \times \Rho(n)$ area.
+\end{theorem}
+\begin{sketch}
+	If $G$ has got a minimal number of bends, then there is no alternation in any polyline by contraposition of Theorem \ref{th:alt_not_min}. The polyedges are purely uniform and every vertical segment is replaced by either a quarter circle arc or a semicircle arc or it stays the same. As we already saw, uniform bends do not lead to an edge complexity increase. Planarity is preserved due to the stretching technique.
+\end{sketch}

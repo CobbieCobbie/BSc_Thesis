@@ -1,0 +1,66 @@
+\documentclass[a4paper,12pt,headsepline]{scrartcl}
+
+%
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{proof}
+\geometry{left=3.5cm, right=2cm, top=2.5cm, bottom=2cm}
+%\usepackage[hyphens,obeyspaces,spaces]{url}
+\usepackage{fancybox}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage[linesnumbered,ruled,vlined,norelsize]{algorithm2e}
+%\usepackage[bookmarksnumbered,pdftitle={\titleDocument},hyperfootnotes=false]{hyperref} 
+
+% Makros
+\newenvironment{sketch}{\textit{Proof (Sketch):}}{\qed}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+
+\theoremstyle{defintion}
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{definition}{Definition}[section]
+\newtheorem{example}{Example}[section]
+
+\newcommand{\TODO}{\texttt{TODO}}
+\newcommand{\Rho}{\ensuremath{\mathcal{O}}}
+
+% neue Kopfzeilen mit fancypaket
+\usepackage{fancyhdr} %Paket laden
+\pagestyle{fancy} %eigener Seitenstil
+\fancyhf{} %alle Kopf- und Fußzeilenfelder bereinigen
+\fancyhead[L]{\nouppercase{\leftmark}} %Kopfzeile links
+\fancyhead[C]{} %zentrierte Kopfzeile
+\fancyhead[R]{\thepage} %Kopfzeile rechts
+\renewcommand{\headrulewidth}{0.4pt} %obere Trennlinie
+%\fancyfoot[C]{\thepage} %Seitennummer
+%\renewcommand{\footrulewidth}{0.4pt} %untere Trennlinie
+
+\frenchspacing
+\makeindex
+
+% Pseudocode für Java
+\usepackage{listings}
+\lstset{numbers=left, numberstyle=\tiny, numbersep=5pt, keywordstyle=\color{black}\bfseries, stringstyle=\ttfamily,showstringspaces=false,basicstyle=\footnotesize,captionpos=b}
+\lstset{language=java}
+
+% Disable single lines at the start of a paragraph (Schusterjungen)
+\clubpenalty = 10000
+% Disable single lines at the end of a paragraph (Hurenkinder)
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+\begin{document}
+%\newpage
+%\thispagestyle{empty} % erzeugt Seite ohne Kopf- / Fusszeile
+%\section*{ }
+
+%Deckblatt
+%\include{include/deckblatt}
+\include{include/preliminaries}
+\include{include/polyline_guarantee}
+
+\end{document}
