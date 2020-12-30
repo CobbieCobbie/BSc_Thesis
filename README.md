@@ -1,1 +1,3 @@
-# smogmog
+# Smoothening Of Kandinsky Drawings
+
+Orthogonal drawings arise among others in VLSI design where quite many cables are following a similar path. The smallest angle between axis-aligned line segment is at most of value pi divided by two and their angular resolution is quite pleasing for the eye of the viewer. One fundamental, reliable model is the Kandinsky model which is based on a grid embedding. The vertices lie on a coarse grid while the edges lie on a fine grid extending the coarse grid. It may appear that an orthogonal drawing may convey some structural information, so smoothening those edges is of interest.
